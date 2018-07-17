@@ -10,3 +10,7 @@ Target folder is /sdcard/WhatsApp/Media/WhatsApp type_of_media/Sent , where What
 Just use it as a regular bash script. Once in Termux, don't forget to check that the it can access internal storage. You can do so with `termux-setup-storage`. Then make the script executable with `chmod +x wa-cleanup.sh` and run it with `./wa-cleanup.sh`.
 
 But if you came here, you already know that don't you ;)
+
+## Further improvements
+
+For now the script only removes images and videos because I never really share other types of media through WhatsApp. If you need it to take care of other medias, feel free to ask me and I'll update it.
