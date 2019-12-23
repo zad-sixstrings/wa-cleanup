@@ -1,5 +1,4 @@
 #!/bin/bash
-# Put this file in the WhatsApp main folder (usually /sdcard/WhatsApp/)
 echo "Deleting WhatsApp sent files..."
 cd /Media/"WhatsApp Animated Gifs"
 rm -r *
