@@ -1,11 +1,19 @@
 #!/bin/bash
+# Put this file in the WhatsApp main folder (usually /sdcard/WhatsApp/)
 echo "Deleting WhatsApp sent files..."
-rm -r /Media/"WhatsApp Animated Gifs"
-rm -r /Media/"WhatsApp Images"
-rm -r /Media/"WhatsApp Video"
-rm -r /Media/"WhatsApp Audio"
-rm -r /Media/"WhatsApp Documents"
-rm -r /Media/"WhatsApp Stickers"
-rm -r /Media/"WhatsApp Voice Notes"
+cd /Media/"WhatsApp Animated Gifs"
+rm -r *
+cd /Media/"WhatsApp Images"
+rm -r *
+cd /Media/"WhatsApp Video"
+rm -r *
+cd /Media/"WhatsApp Audio"
+rm -r *
+cd /Media/"WhatsApp Documents"
+rm -r *
+cd /Media/"WhatsApp Stickers"
+rm -r *
+cd /Media/"WhatsApp Voice Notes"
+rm -r *
 sleep 1
 echo "Deletion process complete."
