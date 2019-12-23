@@ -7,7 +7,7 @@ Target folder is /sdcard/WhatsApp/Media/WhatsApp type_of_media/Sent , where What
 
 ## How to :
 
-Just use it as a regular bash script. Once in Termux, don't forget to check that the it can access internal storage. You can do so with `termux-setup-storage`. Then make the script executable with `chmod +x wa-cleanup.sh` and run it with `./wa-cleanup.sh`.
+Just use it as a regular bash script. Once in Termux, don't forget to check that it can access internal storage. You can do so with `termux-setup-storage`. Then make the script executable with `chmod +x wa-cleanup.sh` and run it with `./wa-cleanup.sh`.
 
 But if you came here, you already know that don't you ;)
 
