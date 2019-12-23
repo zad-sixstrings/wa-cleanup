@@ -1,3 +1,5 @@
+# This script doesn't work anymore. Needs troubleshooting. After christmas maybe.
+
 # wa-cleanup
 ## A simple Termux script that deletes WhatsApp sent media.
 
