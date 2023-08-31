@@ -1,4 +1,5 @@
 # wa-cleanup
+## OLD / DEPRECTATED
 ## A simple Termux script that deletes WhatsApp sent media.
 
 Put the script in the WhatsApp main folder (usually sdcard/WhatsApp).
